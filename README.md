@@ -1,3 +1,3 @@
 # project
 tut to learn how to build an angular project...
-Angularjs wil change your philosophy!
+Angularjs will change your philosophy!
